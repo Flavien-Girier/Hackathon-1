@@ -1,0 +1,40 @@
+
+.coin
+{
+
+}
+
+
+.versus{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.wantFight
+{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.wantFightSize
+{
+    font-size: 2rem;
+    font-family: 'Bangers', cursive;
+}
+
+.banner
+{
+    max-height: 500px;
+
+}
+
+/**<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12  ">
+<h1>THE FIGHT</h1>
+</div>
+<div class="row m-0 p-0 photo_bannier stats_bannier img-fluid">
+<img src="img/coin.png" class="">
